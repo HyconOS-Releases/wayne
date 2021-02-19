@@ -2,7 +2,7 @@
 
 *DOWNLOAD COUNT BY VERSION BELOW*
 
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/wayne/v1.5/total.svg)](https://GitHub.com/Hycon-Releases/wayne/releases)
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/wayne/V1.5/total.svg)](https://GitHub.com/Hycon-Releases/wayne/releases)
 
 
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/wayne/v1.0/total.svg)](https://GitHub.com/Hycon-Releases/wayne/releases)
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/wayne/V1.0/total.svg)](https://GitHub.com/Hycon-Releases/wayne/releases)
