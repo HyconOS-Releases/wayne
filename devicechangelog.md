@@ -1,4 +1,10 @@
 # Changelog for Xiaomi Mi 6X (Wayne)
+
+## HyconOS V3.0 - 24/05/2021
+- Initial 4.19 kernel release
+
+---
+
 ## HyconOS V2.5 - 17/04/2021
 - Halcyon Kernel v5.4
 - Tune zRAM for size and performance
@@ -71,12 +77,15 @@
 - Decommmonize cnss-daemon (WiFi)
 - Fix some camera denials
 - Enable Battery Health to fix Battery settings FC
+
 ### Notes:
 - Clean flash recommended
 - Decrypted build
 - Fix UI lags by:
     - Rebooting once to fix live wallpaper lag or using a static wallpaper instead
     - Disabling windows blur option under Display settings
+
 ---
+
 ## HyconOS V1.5 - 16/02/2021
 - Initial build
